@@ -1,0 +1,5 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/fe774996-1294-4970-9e13-1c768413313d/resourceGroups/ProyectoUniversidad/providers/Microsoft.Web/sites/SistemaAcademico",
+  "appService.deploySubpath": ".",
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"]
+}
